@@ -1,0 +1,137 @@
+.top-container {
+  background-color: #C9E4C5;
+  position: relative;
+  padding-top: 100px;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #E4BAD4;
+  padding:50px;
+}
+
+.middle-container{
+  background-color: #E4EFE7;
+}
+
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather",serif;
+}
+.profile{
+  width:50%;
+  margin:0 auto 50px auto;
+  padding-top: 50px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Berkshire Swash', cursive;
+  color: purple;
+  font-size: 4rem;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight:normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 7px;
+  width: 5%;
+}
+
+
+}
+
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align:left;
+  line-height: 2;
+}
+.C{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.web{
+  width: 20%;
+  float: right;
+  margin-left:30px;
+}
+p{
+  font-weight: bold;
+  line-height: 2;
+}
+.BUTTON_AFI {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 5px;
+   background-color: #66BFBF;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 5px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 50px auto;
+}
+
+.BUTTON_AFI:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.bc{
+  width:2%;
+  margin: auto 3px;
+}
+a{
+  color:#11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin: auto 3px;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.yash{
+  margin-top: 50px;
+}
